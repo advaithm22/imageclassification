@@ -1,2 +1,2 @@
 # imageclassification
-Using TensorFlow in order to train a model that classifies images of different particles, such as those consisting of electrons, gamma rays, muons, protons, and pions. The images in the datasets have been obtained from Yale's Liquid Argon Time Projection Chamber detector.
+Using TensorFlow in order to train a model that classifies images of different retinas, which were initially subject to different conditions prior to imaging. Usage of a convolutional neural network will result in the images being processed, allowing individuals to determine if the retina is similar to one which is possessed by individuals with diabetic retinopathy.
